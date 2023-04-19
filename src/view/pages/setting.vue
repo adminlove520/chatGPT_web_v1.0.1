@@ -12,8 +12,9 @@
         <transition name="el-zoom-in-top">
           <div v-show="show" class="transition-box">
             <span>
-              很感谢大家对我的支持，现已接入OpenAI的Models API、Completions API、Chat API、Audio API、Images API后续会添加更多有意思的功能进去，希望大家给我的GitHub点个小小的星星，
-              大家如果有什么好的想法可以在GitHub中提出来，我们一起来完善这个页面。
+              东方隐侠团队，专注于网络安全基础能力研究，热衷于红蓝对抗、企业安全建设等知识的分享与输出。
+              现有成员30+位，包含多位护网红队TOP3选手、国内大型安全厂商专家、业内元老等，
+              技术研究方向涵盖红蓝对抗、安全运营、数据安全、AI安全、二进制分析、移动安全等领域。。
             </span>
           </div>
         </transition>

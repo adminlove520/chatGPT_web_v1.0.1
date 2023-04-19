@@ -66,6 +66,5 @@ docker build -t jcm-chatgpt .
 docker run --name my-chatgpt -p 80:80 jcm-chatgpt
 ```
 
-# 多模型ChatGPT群4
-![webui2.0](https://i.328888.xyz/2023/03/22/14Le3.jpeg)
+
 
