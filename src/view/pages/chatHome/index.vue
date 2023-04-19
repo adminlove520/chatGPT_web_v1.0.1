@@ -121,8 +121,8 @@
         ></ChatWindow>
       </div>
       <div class="showIcon" v-else>
-        <span class="iconfont icon-snapchat"></span>
-        <!-- <img src="@/assets/img/snapchat.png" alt="" /> -->
+        <!-- <span class="iconfont icon-snapchat"></span> -->
+        <img src="@/assets/img/snapchat.png" alt="" />
       </div>
     </div>
     <div class="chatLeft" v-show="showSetupList">
